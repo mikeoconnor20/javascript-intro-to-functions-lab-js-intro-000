@@ -15,6 +15,6 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  console.log(shout(string));
+  console.log(whispert(string));
 }
 // function sayHiToGrandma()
